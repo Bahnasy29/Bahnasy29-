@@ -10,7 +10,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="70" height="70"/>
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true" alt="Power BI" width="70" height="70"/>
-  <img src="https://upload.wikimedia.org/brandwiki/8/86/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" width="70" height="70"/>
+  <img src="https://i.imgur.com/JqeuYFJ.png" alt="Excel" width="70" height="70"/>
+
 
 </p>
 
